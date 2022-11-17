@@ -9,6 +9,7 @@ body {
     background-color: hsl(257, 40%, 49%);
     background-size: cover;
     color: white;
+
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -59,6 +60,7 @@ body {
     align-items: center;
     box-shadow: 3px 6px 16px 0px rgba(0, 0, 0, 0.4);
     background-color: white;
+    color: hsl(257, 40%, 49%);
     border-radius: 50px;
     margin: 15px 0;
     width: 190px;
@@ -68,6 +70,7 @@ body {
 
 .main .container .conteudo .botao:hover {
     background-color: hsl(300, 69%, 71%);
+    color: white;
 }
 
 .main .container .conteudo .botao a {
