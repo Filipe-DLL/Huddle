@@ -113,21 +113,17 @@ body {
         background-size: contain;
         background-color: hsl(257, 40%, 49%);
     }
-
     .main .container {
         flex-direction: column;
     }
-
     .main .container .conteudo {
         align-items: center;
         text-align: center;
     }
-
     .footer {
         align-self: center;
         margin: 0%;
     }
-
     .footer .icones {
         position: relative;
         right: 0px;
@@ -138,20 +134,16 @@ body {
     body {
         background-size: contain;
     }
-
     .header {
         margin-top: 20px;
     }
-
     .header img {
         width: 60%;
         margin-bottom: 10px;
     }
-
     .main .container .ilustrcao {
         text-align: center;
     }
-
     .main .container .ilustrcao img {
         max-width: 90%;
     }
