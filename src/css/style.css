@@ -133,15 +133,15 @@ body {
 }
 
 @media (max-width: 768px) {
-    body {
-        background-size: contain;
-    }
     .header {
         margin-top: 20px;
     }
     .header img {
         width: 60%;
         margin-bottom: 10px;
+    }
+    .main .container .conteudo h1{
+        font-size: 30px;
     }
     .main .container .ilustrcao {
         text-align: center;
